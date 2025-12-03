@@ -16,8 +16,8 @@ So you have a few options at your disposal and I will be going through them one 
 # Forewarning
 This guide is by no means an exhaustive tutorial and the onus is on you to do your own research before you start DIYing hormones. While I believe the risks associated with DIYing hormones is overblown on reddit, there are always exceptions and you might run into problems that I or other DIYers never faced. It is upto you to weigh the risks vs the rewards for yourself. And once again, please take a look at all the resources I have pasted here. 
 
-# Estrogen 
-## Pills
+## Estrogen 
+# Pills
 
 Efficacy - 2/5 
 Administration - 5/5 
@@ -64,4 +64,4 @@ EV, EEn, ECy, There are a ton of esters that can give you a range of good levels
 
 EV- Estradiol valerate is the easiest available option, there are local manufactureres that do deliver the biggest hurdle would be concealement and learning to self inject. While the initial effort is a bit intimidating, it does give you the 
 
-# Further-Resources
+## Further-Resources
