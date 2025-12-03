@@ -7,9 +7,17 @@ title: A beginner's guide to DIYing HRT in India
 
 So you have a few options at your disposal and I will be going through them one by one, ranked in my ~subjective~ objective opinions, from worst to best. And what do I base this opinions on? A combination of efficacy, ease of administration, ease of procurement, long term safety, convenience, cost and ease of concealment (might be important for those of you still living with parents or if you’re stuck in some draconian hostel). Also with pills, they are usually not very effective just on their own and you will need to pair an androgen blocker with it. So, I will be covering a subsection for androgen blockers too. 
 
+[Forewarning](#Forewarning)
+[Estrogen](#Estrogen)
+- [Pills](#pills)
+- [Gels](#Gels)
+[Further-Resources]
+
+# Forewarning
 This guide is by no means an exhaustive tutorial and the onus is on you to do your own research before you start DIYing hormones. While I believe the risks associated with DIYing hormones is overblown on reddit, there are always exceptions and you might run into problems that I or other DIYers never faced. It is upto you to weigh the risks vs the rewards for yourself. And once again, please take a look at all the resources I have pasted here. 
 
-# Pills
+# Estrogen 
+## Pills
 
 Efficacy - 2/5 
 Administration - 5/5 
@@ -56,6 +64,4 @@ EV, EEn, ECy, There are a ton of esters that can give you a range of good levels
 
 EV- Estradiol valerate is the easiest available option, there are local manufactureres that do deliver the biggest hurdle would be concealement and learning to self inject. While the initial effort is a bit intimidating, it does give you the 
 
-
-
- 
+# Further-Resources
