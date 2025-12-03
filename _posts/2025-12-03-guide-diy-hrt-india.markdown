@@ -11,7 +11,7 @@ So you have a few options at your disposal and I will be going through them one 
 [Estrogen](#Estrogen)
 - [Pills](#pills)
 - [Gels](#Gels)
-[Further-Resources]
+[Further-Resources](#Further-Resources)
 
 # Forewarning
 This guide is by no means an exhaustive tutorial and the onus is on you to do your own research before you start DIYing hormones. While I believe the risks associated with DIYing hormones is overblown on reddit, there are always exceptions and you might run into problems that I or other DIYers never faced. It is upto you to weigh the risks vs the rewards for yourself. And once again, please take a look at all the resources I have pasted here. 
